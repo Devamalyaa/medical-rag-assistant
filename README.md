@@ -4,8 +4,6 @@ A Retrieval-Augmented Generation (RAG) system that lets you ask natural-language
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Devamalyaa/medical-rag-assistant/blob/main/medical_rag_assistant.ipynb)
 
-> Replace `Devamalyaa/medical-rag-assistant` above with your actual GitHub path once this repo is live, so the badge links to your real notebook.
-
 ---
 
 ## 📖 Overview
